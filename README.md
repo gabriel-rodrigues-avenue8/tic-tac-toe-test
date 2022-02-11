@@ -1,6 +1,30 @@
-# Getting Started with Create React App
+# Getting Started with this test
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The goal is to be a boilerplate to create
+a Tic Tac Toe game.
+
+If you're not familiar with this game, you can take a look of [its rules in
+Wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe) as this is a pretty
+familiar game for a lot of people but under very different names.
+
+And if you want to play it to get a feeling of the rules in case you don't
+know the game, you can search for `Tic Tac Toe Game` in Google and it will
+actually show you a Tic Tac Toe Game to play with.
+
+This is an open-ended challenge, meaning that it is not required that you
+actually finish the implementation, we are much more interested in your
+methods than your output. Communication is key and asking questions can
+save massive amounts of time, so try to create the game, we will help
+you as you code it, trying to be helpful and asking for the reasons of
+decisions made to make the implementation move forward.
+
+As this is intended to be a live coding challenge, candidates gets anxious
+and nervous, that's normal, even expected, don't worry, being anxious
+and writing typos will not degrade our evaluation of your work, and you
+will not code under pressure or vigilance of any kind in our company.
+
+This challenge is meant to gauge communication and skills of teamwork in
+a simulated pair programming experience.
 
 ## Available Scripts
 
